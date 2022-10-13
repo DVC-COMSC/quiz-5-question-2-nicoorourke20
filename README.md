@@ -1,7 +1,7 @@
 
-## Quiz 5: Question 1
+## Quiz 5: Question 2
 
-# [Question 1] Find the minimum value.
+# [Question 2] Power Number
 
 
 [Assessment]
