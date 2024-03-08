@@ -11,4 +11,7 @@ int main(){
         cerr << "Error: N must be between 1 and 9, and M must be between 1 and 10." << endl;
         return 1;
     }
+   cout << N << " to power number: ";
+    for (int i = 0; i <= M; i++){
+        int result = 1;
 }
