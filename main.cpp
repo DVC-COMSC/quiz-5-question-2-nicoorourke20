@@ -14,4 +14,7 @@ int main(){
    cout << N << " to power number: ";
     for (int i = 0; i <= M; i++){
         int result = 1;
+       for (int j = 0; j < i; j++){
+            result *= N;
+        }
 }
